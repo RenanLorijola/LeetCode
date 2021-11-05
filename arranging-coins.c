@@ -8,7 +8,3 @@ int arrangeCoins(int n){
     }
     return i;
 }
-
-int main(){
-    printf("%d",arrangeCoins(5));
-}
